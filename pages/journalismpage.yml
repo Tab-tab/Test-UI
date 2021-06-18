@@ -1,0 +1,6 @@
+#每个页面都有url
+url: http://news.baidu.com
+pages:
+    baidu_new_by_xpath: //*[@id="channel-all"]/div/ul/li[2]/a
+    baiduinput_by_xpath: //*[@id="ww"]
+    baidubotton_by_xpath: //*[@id="s_btn_wr"]

@@ -1,0 +1,4 @@
+# 首页的url
+url: https://www.baidu.com
+pages:
+    journalism_by_xpath: //*[@id="s-top-left"]/a[1]

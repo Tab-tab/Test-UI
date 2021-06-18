@@ -1,0 +1,18 @@
+# 测试报告配置
+report:
+        file_name: 11百度新闻自动化测试保存    # 测试报告文件名
+        report_title: 22百度新闻自动化测试保存 # 测试报告标题
+        description: 33百度新闻自动化测试保存 # 测试描述
+#测试数据配置
+database:
+        host: localhost
+        port: 3306
+        user: root
+        password: 123456
+        db: autotest
+        charset: utf8
+#测试元素页面的配置
+pages_yml_file: baidu
+
+#测试要用的浏览器"chrome"或“firefox”
+browser: chrome
